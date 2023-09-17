@@ -35,7 +35,7 @@ const changeTextButton = document.getElementById('changeTextButton')
 const myFav = document.querySelector('.myFav')
 
 changeTextButton.addEventListener('click', function() {
-    myFav.textContent = 'New text here!'
+    myFav.textContent = 'New text here !'
 })
 
 
